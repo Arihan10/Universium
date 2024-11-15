@@ -1,6 +1,6 @@
 # Universium
 
-A multiplayer 3D space game, featuring fully-procedural planet generation, networked aliens, spaceships, mining, shooting, and so much more!
+A multiplayer PvP 3D space game, featuring fully-procedural planet generation, networked aliens, spaceships, mining, shooting, and so much more!
 
 # Showcase
 
